@@ -7,3 +7,4 @@ git push
 cd ..
 git add .
 git commit -m "Pushed site"
+git push
