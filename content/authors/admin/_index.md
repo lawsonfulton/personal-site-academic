@@ -69,5 +69,5 @@ user_groups:
 - Visitors
 ---
 
-Lawson Fulton is a multidisciplinary computer scientist and recent M.Sc grad with over four years experience in industry. Leveraging skills in machine learning, graphics, numerical simulation, optimization, geometry-processing, and web development.
+Lawson is a multidisciplinary computer scientist and recent M.Sc grad with over four years experience in industry. Leveraging skills in machine learning, graphics, numerical simulation, optimization, geometry-processing, and web development.
 
