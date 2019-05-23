@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-  - course: MSc in Computer Science - Machine Learning & Graphics
+  - course: MSc in Computer Science
     institution: University of Toronto
     year: 2019
   - course: BSc in Computer Science
