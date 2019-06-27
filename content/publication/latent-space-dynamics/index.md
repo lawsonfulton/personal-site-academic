@@ -9,7 +9,8 @@ tags = []
 categories = []
 
 
-
+medal_image="/img/eg-honorable-mention.jpg"
+medal_image_link="https://diglib.eg.org/handle/10.2312/2632779"
 
 abstract = "We propose the first reduced model simulation framework for deformable solid dynamics using autoencoder neural networks. We provide a data-driven approach to generating nonlinear reduced spaces for deformation dynamics. In contrast to previous methods using machine learning which accelerate simulation by approximating the time-stepping function, we solve the true equations of motion in the latent-space using a variational formulation of implicit integration. Our approach produces drastically smaller reduced spaces than conventional linear model reduction, improving performance and robustness. Furthermore,our method works well with existing force-approximation cubature methods."
 authors = ["Lawson Fulton", "Vismay Modi", "David Duvenaud", "David I.W. Levin", "Alec Jacobson"]
