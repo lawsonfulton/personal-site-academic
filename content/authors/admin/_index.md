@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: M.Sc. Computer Science
+role: Technical Lead, Mesh Consultants Inc.
 
 # Organizations/Affiliations
 organizations:
@@ -18,14 +18,14 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a multidisciplinary computer scientist and recent M.Sc grad with over four years experience in industry.
+bio: 
 
-interests:
-- Computer Graphics
-- Machine Learning
-- Numerical Simulation and Optimization
-- Geometry Processing
-- High Performance Computing
+#interests:
+#- Computer Graphics
+#- Machine Learning
+#- Numerical Simulation and Optimization
+#- Geometry Processing
+#- High Performance Computing
 
 education:
   courses:
@@ -46,18 +46,10 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/lawsonfulton
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.ca/citations?user=3vVDfd4AAAAJ&hl=en&oi=sra
-- icon: github
-  icon_pack: fab
-  link: https://github.com/lawsonfulton
+  link: https://twitter.com/lawsonfulton0000
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -69,5 +61,10 @@ user_groups:
 - Visitors
 ---
 
-Lawson is a multidisciplinary computer scientist and recent M.Sc grad with over four years experience in industry. Leveraging skills in machine learning, graphics, numerical simulation, optimization, geometry-processing, and web development.
+Hi!
 
+I am a software developer, consultant, computer scientist, and compulsive tinkerer. I'm especially interested in the world of tangible-computation, that is, the use of computers and mathematics to create things that you can see, touch, or hear (smell and taste are a bit trickier).
+
+I recently graduated with an M.Sc from the [DGP](https://www.dgp.toronto.edu/) at the University of Toronto advised by [Alec Jacobson](http://www.cs.toronto.edu/~jacobson/) and [David Levin](http://diwlevin.webfactional.com/researchdb/#research). I've also spent several years as a software developer on large-scale projects at [Dropbox](https://www.dropbox.com), [Autodesk Research](https://autodeskresearch.com/), and [LinkedIn](linkedin.com).
+
+You can find my full CV [here](/files/cv.pdf).

@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = []
+tags = ["old"]
 
 # Project summary to display on homepage.
 summary = ""
@@ -19,7 +19,7 @@ summary = ""
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "YacRay"
+external_link = "/YacRay"
 
 # Links (optional).
 url_pdf = ""
